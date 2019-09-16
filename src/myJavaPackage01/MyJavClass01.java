@@ -7,6 +7,8 @@ public class MyJavClass01 {
 		System.out.println("This is for gitHub");
 		
 		System.out.println("This is second commit");
+		
+		System.out.println("Third commit");
 
 	}
 
