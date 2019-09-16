@@ -9,6 +9,9 @@ public class MyJavClass01 {
 		System.out.println("This is second commit");
 		
 		System.out.println("Third commit");
+		
+		MyJavaClass02 my = new MyJavaClass02();
+		 my.Run();
 
 	}
 
